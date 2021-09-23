@@ -3,7 +3,7 @@
 1. Pandas, matplotlib, numpy
     - Ресурсы:
         - [ml-course-hse](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem01-pandas.ipynb)
-        - []()
+        - ODS Course: Lec1, Lec2
         
     - Задания
         - [Задание 1](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset?scriptVersionId=6268055)

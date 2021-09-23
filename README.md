@@ -3,7 +3,7 @@
  ## Ресурсы: 
 
 1. https://github.com/esokolov/ml-course-hse
-2. Открытый курс машинного обучения: 
+2. Открытый курс машинного обучения (ODS Course): 
     - [github repo](https://github.com/Yorko/mlcourse.ai)
     - [Habr(на русском)](https://habr.com/ru/company/ods/blog/322626/)
 
