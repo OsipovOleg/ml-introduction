@@ -10,3 +10,9 @@
 3. Machine Learning: A Probabilistic Perspective, Kevin P. Murphy
 4. Pattern Recognition and Machine Learning, Christopher Bishop
 5. The Elements of Statistical Learning, Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+
+
+## Семинары
+Задания доступны по [ссылке](seminar-tasks.md)
+
+
