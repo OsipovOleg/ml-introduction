@@ -17,7 +17,7 @@
         
     - Задания
         - [Задание 1](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-practice/homework-practice-02-linregr.ipynb)
-        - [Задание 2: House Prices - Advanced Regression Techniques (baseline будет объявлен позже)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+        - [Задание 2: House Prices - Advanced Regression Techniques (baseline: 0.25)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 3. Линейная классификация
     - Ресурсы:
@@ -28,7 +28,7 @@
     - Задания
         - [Задание 1](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-practice/homework-practice-04-classification.ipynb)
         - [Задание 2: Sarcasm detection with logit](https://www.kaggle.com/kashnitsky/a4-demo-sarcasm-detection-with-logit)
-        - Задание 3: на выбор (baseline будет объявлен позже)
+        - Задание 3: на выбор (baseline: 0.7 и  0.6 соответственно)
             - [What's Cooking? Use recipe ingredients to categorize the cuisine](https://www.kaggle.com/c/whats-cooking-kernels-only/discussion)
             - [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data)
 4. Метрические методы
